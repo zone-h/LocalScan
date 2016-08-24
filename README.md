@@ -1,4 +1,4 @@
-<p align="center">Scan Your Local NetWork 
-<a href="https://roothaxor.github.io/LocalScan/">Here : https://roothaxor.github.io/LocalScan/ </a> | 
+<p align="center"> 
+<a href="https://roothaxor.github.io/LocalScan/">Scan My Local Netowork</a><br><br>
 <a> Managed and Hosted By RooT HaXor</a>
 </p>
